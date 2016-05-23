@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"rea",
+				"readFile"
+			],
+			[
+				"read",
+				"createReadStream"
+			],
+			[
+				"vali",
+				"validPostal"
+			],
+			[
+				"consol",
+				"console"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"btn",
+				"btnSlideToggle"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bo",
+				"block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tabl",
+				"tableauImages"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"teinte",
+				"teinte2"
+			],
+			[
+				"obj",
+				"objCouleurs"
+			],
+			[
+				"ta",
+				"tableauCouleurs"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"onmouse",
+				"onmouseover	Attr"
+			],
+			[
+				"gtE",
+				"getElementById"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"f",
+				"f_minEtMoyenne"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cal",
+				"calculateSurface"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"couleur",
+				"couleur2"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"origin",
+				"transform-origin"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"transo",
+				"transform"
+			],
+			[
+				"transform",
+				"transform"
+			],
+			[
+				"transfo",
+				"transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tableau",
+				"tableauPrix"
+			],
+			[
+				"tab",
+				"tableauObjets"
+			],
+			[
+				"tablea",
+				"tableauPrix"
+			],
+			[
+				"car",
+				"carsArray"
+			],
+			[
+				"ca",
+				"car4"
+			],
+			[
+				"c",
+				"car3"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"chiffre3",
+				"chiffre3-chiffre2"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"repa",
+				"repeat-x"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fnt",
+				"font-style"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"l",
+				"lang	Attr"
+			],
+			[
+				"t",
+				"target	Attr"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Emett",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 100.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/dom.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/date.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/boucles-imbriquees.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/array.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/fourthMain.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/thirdMain.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/secondMain.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 3 - conditions/conditions.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exo-form/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/exo-01/js/events.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/exo-01/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/exo-01/js/animation.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/exo-01/js/name.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/exo-01/exo1.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/lib/jquery-1.12.3.min.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/jquery/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exercice-gallery.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exo-form/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-images.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-carresCouleur.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/main2.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-rectangle.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/main5.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/main4.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/main3.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-carresCouleur.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-images.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/formulaire.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exercice-gallery.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom-rectanlge.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/exercice-dom.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/dom.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/dom5.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/array-recap.js",
+		"/S/Anissa/javascript/08-boucles recap/js/main.js",
+		"/S/Anissa/javascript/exo-stagiaires/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/correction-exo-1.js",
+		"/S/Anissa/javascript/DOM/exo-rectangle/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/corrections/fonctions2.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/dom2.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/dom3.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/dom/dom4.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/moyennes.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/objects-recap.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exercice-objects-recap.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exercice-boucle-while.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/boucle-while.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exo-stagiaires/js/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/fonction-rectangle.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/exo-stagiaires/js/datas.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/corrections/fonctions.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/fonction-anonyme.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/factorielle.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript Anissa/rectangle.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript expert/fonction.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/main.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/exerciceTableau.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 2 - variables/exercice-variables.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 3 - conditions/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/initiation.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 4/darkTheme/sass/style.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 4/darkTheme/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/css/04-responsive.css",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/index.html",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/sass/_grids.scss",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/sass/style.scss",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/stylesheets/style.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/sass/style.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/sass/variables.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/sass/mixin.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/sass/style-suite.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/exercice-mixin.html",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/index",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/stylesheets/screen.css",
+		"/C/Users/s_8188_frontEnd/Documents/compass/projet1/sass/screen.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/projet/css/style-suite.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/css/style.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/Projet/sass/style.sass",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/projet/sass/style.scss",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/projet/sass/style.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 3/projet/sass/style.sass",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/correction/correction-animation.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/correction/correction-animation.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/css/transitions.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/css/animations.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/css/exercice-animations.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/07-animations.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/exercice-animations.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/css/transform.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/06-transitions.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 2/05-transform.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/css/03-border.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/exercice-4.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/correction/correction.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/correction/correction.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/exercice-3.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/css/css3.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/css4.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/exercice 3.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/css/02-fonds.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/exercice-2.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/css/01-textes.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html 5 css 3/jour 1/exercice-1.html",
+		"/C/Users/s_8188_frontEnd/Desktop/webfontkit-20160404-034342/stylesheet.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 4 - conditions 2/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/test-vendredi-19-02-2016.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/page2.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/page1.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/menu.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/imageception.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/formulaireExercice.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/exercice-3-Mardi-23-02-2016.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html/exercice-2-vendredi-19-02-2016.html",
+		"/C/Users/s_8188_frontEnd/Desktop/gif-testPage.html",
+		"/C/Users/s_8188_frontEnd/Desktop/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 2 - variables/variables.js",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/exercice 2 - variables/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/javascript/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html-css/Exercice1/Javascript.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/toshop/starting-hover/galet-magique.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html-css/Exercice1/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html-css/Exercice1/css/main.css",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html-css/initializr/index.html",
+		"/C/Users/s_8188_frontEnd/Desktop/cours-front-end/html-css/initializr/css/main.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"C:\\Users\\s_8188_frontEnd\\Documents\\compass\\projet1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"after",
+			"alert('Erreur dans Nom');",
+			"alert('OK');",
+			"email",
+			"nom",
+			"Nom",
+			"nom",
+			"Nom",
+			"nom",
+			"		\n",
+			"200",
+			"350",
+			"id",
+			");",
+			"function",
+			"({\"",
+			"slideUp",
+			"$(this).removeClass('survol');",
+			"removeClass",
+			"this:not",
+			"addClass",
+			"hide",
+			";\n",
+			"block",
+			"slideToggle",
+			"toggle",
+			"<li class ='sous-menu'>Présentation</li>",
+			"class",
+			"Menu",
+			"menu",
+			"Menu",
+			"menu",
+			"Menu",
+			"menu",
+			"Menu",
+			"td",
+			"d",
+			"td",
+			"o",
+			"i",
+			"tr",
+			"td",
+			"monClick",
+			"Click",
+			"click",
+			"index",
+			"'",
+			"carrot",
+			"\"",
+			"25",
+			"img",
+			"50",
+			"2",
+			"1",
+			"showImg",
+			"0",
+			"100",
+			"imgId",
+			"maDiv",
+			"monSpan",
+			"monImg",
+			"img",
+			"maDiv",
+			"image",
+			"prenom",
+			"prenoms",
+			"classes",
+			"num2",
+			"num1",
+			"larg",
+			"</a>",
+			"btnHover",
+			"'",
+			"p",
+			"button",
+			"document.getElementById(\"demo\").innerHTML += document.getElementById(\"test\").innerHTML;",
+			"h1",
+			"Boucle WHILE",
+			"classes",
+			"-",
+			"cent",
+			"grammarNazi",
+			"parseInt",
+			"[]);",
+			"stagiaires",
+			"0",
+			"key",
+			"stagiaires",
+			"classes",
+			"[]);",
+			"key",
+			"vrey",
+			"firstname",
+			"classes",
+			"calcul",
+			"num3",
+			"1",
+			"n",
+			"result",
+			"fact",
+			"n",
+			"!",
+			"num2",
+			"num1",
+			"num2",
+			"num1",
+			");\n",
+			"for (var j=0; j < 5; j++){\n\n}",
+			"i",
+			"I",
+			"i",
+			"number2",
+			"number1",
+			"padding",
+			"4",
+			"25px",
+			"1",
+			"sin",
+			"{\n",
+			"2",
+			"3",
+			"2",
+			"padding",
+			"span",
+			"}\n",
+			"span",
+			"%;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
